@@ -79,7 +79,9 @@ export default {
       return this.$route.path;
     },
     twitterLink() {
-      return `https://cipher.jthaw.club`;
+      return `https://twitter.com/intent/tweet?text=${encodeURIComponent(
+        "DjqifsVF.ttf is what it is"
+      )}&url=${encodeURIComponent(`https://cipher.jthaw.club`)}&via=jthawme`;
     }
   },
   mounted: function() {
