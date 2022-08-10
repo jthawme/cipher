@@ -50,6 +50,7 @@ export default {};
 
   width: 100%;
   height: calc((var(--vh) * 100) - var(--header-height));
+  background-color: var(--color-bg);
 
   @include tablet {
     background-size: cover;
