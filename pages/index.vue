@@ -23,7 +23,7 @@
         <a href="https://www.manropefont.com/">Download the actual font</a>
       </div>
 
-      <a href="/DjqifsVF.ttf" download="DjqifsVF.ttf" class="downloadbtn">
+      <a href="/DjqifsVF Font.zip" download class="downloadbtn">
         <span>Download</span>
         <span class="small">v1.0 variable font</span>
       </a>
